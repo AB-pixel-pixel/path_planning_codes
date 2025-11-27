@@ -358,7 +358,6 @@ python main.py
 | **BFS** | Search-based | Complete | Optimal (unweighted) | O(V + E) | Unweighted graphs, shortest hop count |
 | **RRT** | Sampling-based | Probabilistically complete | Not optimal | O(n log n) | High-dimensional spaces, complex obstacles |
 | **PRM** | Sampling-based | Probabilistically complete | Not optimal | O(n log n) | Multi-query scenarios |
-| **APF** | Reactive | Not complete | Not optimal | O(1) per step | Real-time local navigation |
 
 ## 🎯 Key Insights
 
