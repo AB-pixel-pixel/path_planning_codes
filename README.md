@@ -439,17 +439,6 @@ Contributions are welcome! Areas for improvement:
 - ROS integration
 - Performance benchmarks
 
-## 📖 References
-
-### Key Papers
-1. Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). *A Formal Basis for the Heuristic Determination of Minimum Cost Paths*
-2. LaValle, S. M. (1998). *Rapidly-Exploring Random Trees: A New Tool for Path Planning*
-3. Karaman, S., & Frazzoli, E. (2011). *Sampling-based Algorithms for Optimal Motion Planning*
-4. Yamauchi, B. (1997). *A Frontier-Based Approach for Autonomous Exploration*
-
-### Books
-- LaValle, S. M. (2006). *Planning Algorithms*. Cambridge University Press
-- Choset, H., et al. (2005). *Principles of Robot Motion*. MIT Press
 
 ## 📄 License
 
